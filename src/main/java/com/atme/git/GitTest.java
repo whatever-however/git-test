@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello new git");
         System.out.println("hello world!");
         System.out.println("conflict merge test");
+        System.out.println("hot-fix update");
     }
 }
