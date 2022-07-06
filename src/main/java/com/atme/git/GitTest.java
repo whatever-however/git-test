@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello new git");
         System.out.println("hello world!");
         System.out.println("custom merge test");
+        System.out.println("master update");
     }
 }
